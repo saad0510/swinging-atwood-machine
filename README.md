@@ -2,6 +2,10 @@
 
 SAM is a complex form of Atwood’s Machine, having two degrees of  freedom,  in  which  two  masses,  _m_  and  _M_,  are  tied  together with a string that passes over two massless & frictionless pulleys. When  the  lighter  body,  say  _m_,  is  disturbed  from  its  equilibrium  position  through  an  angle,  it  will  perform  perpetual  and  quasi-periodic  oscillations  given  by  the  equations  derived  from  the system’s Langrangian while _M_ will perform vertical non-uniform oscillations such that the string retains its original length. In simulation, motion will start from desired values of 𝛍 and 𝛉, and the simulation will be terminated after a given interval of steps is completed.
 
+## Screenshots
+
+![image](./screenshot.jpg)
+
 ## Usage
 
 We  have used  an  online  platform  of  GlowSript  3.0  VPython  on [trinket.io](https://trinket.io/) for simulation.
